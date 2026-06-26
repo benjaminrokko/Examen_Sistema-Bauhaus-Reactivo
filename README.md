@@ -132,6 +132,8 @@ El sistema trabaja entre el orden y la interferencia. La grilla organiza la comp
 
 *Bauhaus [Poster de la Bauhaus Ausstellung 1923] / Solemne II [*https://editor.p5js.org/benjamin.rocco/sketches/U-lbY0VQc*]*
 
+![Referente](IMG_EXAMEN/referentebuhaus(1).jpg)
+
 El referente principal del proyecto es la **Bauhaus**, entendida desde su relación con la geometría, la síntesis formal y la organización visual mediante estructuras modulares. Me interesó tomar esta referencia porque permite construir una composición clara a partir de elementos básicos como círculos, cuadrados, color y repetición.
 
 También tomo como referencia directa mi proyecto de **Solemne II**, ya que este examen funciona como una evolución de esa primera exploración. En la versión anterior, el sistema tenía una interacción más limitada; en esta nueva versión busqué mejorar su comportamiento, incorporando tres estados, reacción al sonido, cambios de forma y mayor variación visual.
@@ -166,4 +168,16 @@ El resultado final busca mostrar una evolución entre orden, densidad y saturaci
 ## 10. Diagrama de flujo
 
 ![Diagrama de flujo Examen](IMG_EXAMEN/Diagrama-de-flujo-Examen.png)
+
+## 11. Proceso visual
+
+![Primera versión](IMG_EXAMEN/1ra-versión-codigo.png)
+
+![Primera versión (1)](IMG_EXAMEN/1ra-versión-codigo-(1).png)
+
+![Segunda Versión](IMG_EXAMEN/2da-versión-tamaño+random.png)
+
+![Versión Final](IMG_EXAMEN/vfinal-nueva-paleta-de-colores.png)
+
+
 
