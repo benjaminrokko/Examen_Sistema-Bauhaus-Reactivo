@@ -129,7 +129,7 @@ El sistema trabaja entre el orden y la interferencia. La grilla organiza la comp
 
 ## 7. Referente principal
 
-*Bauhaus [Poster de la Bauhaus Ausstellung 1923] / Solemne II *https://editor.p5js.org/benjamin.rocco/sketches/U-lbY0VQc*
+*Bauhaus [Poster de la Bauhaus Ausstellung 1923] / Solemne II [*https://editor.p5js.org/benjamin.rocco/sketches/U-lbY0VQc*]
 
 El referente principal del proyecto es la **Bauhaus**, entendida desde su relación con la geometría, la síntesis formal y la organización visual mediante estructuras modulares. Me interesó tomar esta referencia porque permite construir una composición clara a partir de elementos básicos como círculos, cuadrados, color y repetición.
 
@@ -147,3 +147,17 @@ Los módulos están construidos con tres capas concéntricas, lo que permite man
 El fondo funciona como una textura secundaria que introduce interferencia visual. Esta capa tensiona la limpieza geométrica de la grilla y refuerza la idea de un sistema que no permanece completamente estable.
 
 El sonido también participa en el comportamiento visual. Su amplitud modifica el tamaño de los módulos, generando una relación directa entre audio e imagen. Esto permite que el proyecto no dependa solo de la interacción manual, sino también de una respuesta audiovisual.
+
+## 9. Reflexión final
+
+El desarrollo de este proyecto me permitió transformar una exploración visual que ya había iniciado en mi Solemne II en un sistema interactivo más completo. Al comienzo, la composición funcionaba principalmente desde la repetición de módulos geométricos, pero durante el proceso fui incorporando nuevas capas de interacción que modifican su comportamiento en tiempo real.
+
+Una de las decisiones más importantes fue no abandonar la lógica visual inicial, sino adaptarla mejor al lenguaje de la programación. La grilla, los círculos y los cuadrados se mantuvieron como base del proyecto, pero dejaron de operar como elementos estáticos. A través del uso de *map(), random(), condicionales, bucles y funciones propias*, la composición comenzó a responder al mouse, al teclado y al sonido.
+
+También fue importante ajustar el equilibrio entre control y variación. En varias etapas, el sistema podía volverse demasiado caótico o perder legibilidad, especialmente por el uso de `random()` y por la reacción del sonido. Por eso fui modificando los rangos de tamaño y la intensidad de la amplitud sonora hasta encontrar un punto medio donde la composición se sintiera dinámica, pero todavía clara y coherente.
+
+El sonido fue una incorporación clave, porque permitió que el proyecto no dependiera solo de la interacción manual. Al medir la amplitud del audio y usarla para modificar el tamaño de los módulos, el sistema adquirió una dimensión audiovisual más evidente. Esto reforzó la idea de una Bauhaus reinterpretada desde un contexto digital y actual, donde la geometría ordenada convive con la interferencia, el movimiento y la reacción computacional.
+
+Durante el proceso también comprendí mejor la estructura interna de un programa interactivo, la diferencia entre inputs, procesos y outputs; la función de los estados; el uso de condicionales booleanos; y la importancia de ordenar el código para poder explicarlo. Más que sumar elementos visuales sin control, el desafío fue tomar decisiones que tuvieran sentido dentro del sistema.
+
+El resultado final busca mostrar una evolución entre orden, densidad y saturación. A partir de una base geométrica inspirada en la Bauhaus, el proyecto propone una composición reactiva que cambia según la acción del usuario, el azar y el sonido. Esta experiencia me ayudó a entender que programar no es solo escribir código, sino construir reglas visuales capaces de producir comportamiento, variación y sentido.
