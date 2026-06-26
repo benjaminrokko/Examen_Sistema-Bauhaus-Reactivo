@@ -5,7 +5,8 @@ Nombre del Proyecto:
 Autor: [Benjamín Rocco]
 
 **Link p5js**
-*https://editor.p5js.org/benjamin.rocco/sketches/jDdAW2eUa*
+
+[*https://editor.p5js.org/benjamin.rocco/sketches/jDdAW2eUa*]
 
 ## 1. Descripción
 
@@ -123,13 +124,13 @@ El proyecto toma como punto de partida la **Bauhaus**, principalmente por su uso
 
 Para el examen, retomé esa base visual con el objetivo de transformarla en un sistema más interactivo. La composición deja de funcionar como una imagen fija y pasa a responder al usuario mediante el mouse, el teclado y el sonido. De esta manera, la lógica modular inspirada en la Bauhaus se adapta al lenguaje de la programación creativa.
 
-El sistema trabaja entre el orden y la interferencia. La grilla organiza la composición, mientras que `random()`, la amplitud del sonido y los cambios de estado introducen variaciones que modifican el resultado visual en tiempo real. Así, las formas geométricas dejan de ser elementos estáticos y se convierten en módulos reactivos.
+El sistema trabaja entre el orden y la interferencia. La grilla organiza la composición, mientras que *random()*, la amplitud del sonido y los cambios de estado introducen variaciones que modifican el resultado visual en tiempo real. Así, las formas geométricas dejan de ser elementos estáticos y se convierten en módulos reactivos.
 
 
 
 ## 7. Referente principal
 
-*Bauhaus [Poster de la Bauhaus Ausstellung 1923] / Solemne II [*https://editor.p5js.org/benjamin.rocco/sketches/U-lbY0VQc*]
+*Bauhaus [Poster de la Bauhaus Ausstellung 1923] / Solemne II [*https://editor.p5js.org/benjamin.rocco/sketches/U-lbY0VQc*]*
 
 El referente principal del proyecto es la **Bauhaus**, entendida desde su relación con la geometría, la síntesis formal y la organización visual mediante estructuras modulares. Me interesó tomar esta referencia porque permite construir una composición clara a partir de elementos básicos como círculos, cuadrados, color y repetición.
 
@@ -154,7 +155,7 @@ El desarrollo de este proyecto me permitió transformar una exploración visual 
 
 Una de las decisiones más importantes fue no abandonar la lógica visual inicial, sino adaptarla mejor al lenguaje de la programación. La grilla, los círculos y los cuadrados se mantuvieron como base del proyecto, pero dejaron de operar como elementos estáticos. A través del uso de *map(), random(), condicionales, bucles y funciones propias*, la composición comenzó a responder al mouse, al teclado y al sonido.
 
-También fue importante ajustar el equilibrio entre control y variación. En varias etapas, el sistema podía volverse demasiado caótico o perder legibilidad, especialmente por el uso de `random()` y por la reacción del sonido. Por eso fui modificando los rangos de tamaño y la intensidad de la amplitud sonora hasta encontrar un punto medio donde la composición se sintiera dinámica, pero todavía clara y coherente.
+También fue importante ajustar el equilibrio entre control y variación. En varias etapas, el sistema podía volverse demasiado caótico o perder legibilidad, especialmente por el uso de *random()* y por la reacción del sonido. Por eso fui modificando los rangos de tamaño y la intensidad de la amplitud sonora hasta encontrar un punto medio donde la composición se sintiera dinámica, pero todavía clara y coherente.
 
 El sonido fue una incorporación clave, porque permitió que el proyecto no dependiera solo de la interacción manual. Al medir la amplitud del audio y usarla para modificar el tamaño de los módulos, el sistema adquirió una dimensión audiovisual más evidente. Esto reforzó la idea de una Bauhaus reinterpretada desde un contexto digital y actual, donde la geometría ordenada convive con la interferencia, el movimiento y la reacción computacional.
 
