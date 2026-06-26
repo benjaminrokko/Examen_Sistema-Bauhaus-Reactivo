@@ -165,5 +165,5 @@ El resultado final busca mostrar una evolución entre orden, densidad y saturaci
 
 ## 10. Diagrama de flujo
 
-![Diagrama de flujo Examen](imagenes/Diagrama-de-flujo-Examen.png)
+![Diagrama de flujo Examen](imagenes/Diagrama-de-flujo-Examen.png.png)
 
