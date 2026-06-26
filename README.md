@@ -129,7 +129,9 @@ La estructura de estados también refuerza esta idea: el sistema inicia desde un
 
 ## 7. Referente principal
 
-**Bauhaus / Solemne II**
+*Bauhaus / Solemne II* [https://editor.p5js.org/benjamin.rocco/sketches/U-lbY0VQc]
+
+![referente bauhaus](IMG_EXAMEN/referentebuhaus(1).jpg)
 
 El referente principal del proyecto es la **Bauhaus**, entendida desde su relación con la geometría, la síntesis formal y la organización visual mediante estructuras modulares. Me interesó tomar esta referencia porque permite construir una composición clara a partir de elementos básicos como círculos, cuadrados, color y repetición.
 
@@ -175,19 +177,19 @@ El resultado final busca mostrar una evolución entre orden, densidad, saturaci�
 
 ### Primera versión
 
-![Primera versión](IMG_EXAMEN/primera_version.png)
+![Primera versión](IMG_EXAMEN/1ra-versión-codigo-(1).png)
 
 ### Primera versión con variación
 
-![Primera versión 1](IMG_EXAMEN/primera_version_1.png)
+![Primera versión 1](IMG_EXAMEN/1ra-versión-codigo.png)
 
 ### Segunda versión
 
-![Segunda versión](IMG_EXAMEN/segunda_version.png)
+![Segunda versión](IMG_EXAMEN/2da-versión-tamaño+random.png)
 
 ### Versión final
 
-![Versión final](IMG_EXAMEN/version_final.png)
+![Versión final](IMG_EXAMEN/vfinal-nueva-paleta-de-colores.png)
 
 
 
