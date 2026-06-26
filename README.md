@@ -171,7 +171,7 @@ El resultado final busca mostrar una evoluci√≥n entre orden, densidad, saturaci√
 
 ## 10. Diagrama de flujo
 
-![Diagrama de flujo Examen](IMG_EXAMEN/diagrama_flujo_p5_examen.png)
+![Diagrama de flujo Examen](IMG_EXAMEN/Diagramadeflujo(2).png)
 
 ## 11. Proceso visual
 
