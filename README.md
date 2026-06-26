@@ -190,6 +190,7 @@ El resultado final busca mostrar una evolución entre orden, densidad, saturaci�
 ### Versión final
 
 ![Versión final](IMG_EXAMEN/vfinal-nueva-paleta-de-colores.png)
+![Versión final](IMG_EXAMEN/versionfinaltexto.png)
 
 
 
