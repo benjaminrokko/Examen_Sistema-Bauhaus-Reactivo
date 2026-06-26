@@ -162,3 +162,8 @@ El sonido fue una incorporación clave, porque permitió que el proyecto no depe
 Durante el proceso también comprendí mejor la estructura interna de un programa interactivo, la diferencia entre inputs, procesos y outputs; la función de los estados; el uso de condicionales booleanos; y la importancia de ordenar el código para poder explicarlo. Más que sumar elementos visuales sin control, el desafío fue tomar decisiones que tuvieran sentido dentro del sistema.
 
 El resultado final busca mostrar una evolución entre orden, densidad y saturación. A partir de una base geométrica inspirada en la Bauhaus, el proyecto propone una composición reactiva que cambia según la acción del usuario, el azar y el sonido. Esta experiencia me ayudó a entender que programar no es solo escribir código, sino construir reglas visuales capaces de producir comportamiento, variación y sentido.
+
+## 10. Diagrama de flujo
+
+![Diagrama de flujo Examen](imagenes/Diagrama-de-flujo-Examen.png)
+
